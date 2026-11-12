@@ -1,0 +1,18 @@
+[
+ {
+  "material": "PLA",
+  "subtype": "Metal",
+  "color_name": "Iron Gray Metallic",
+  "rgba": "43403DFF",
+  "brand": "Bambu Lab",
+  "label_weight": 1000,
+  "core_weight": 250,
+  "weight_used": 370.0,
+  "nozzle_temp_min": 190,
+  "tag_uid": "REDACTED",
+  "tray_uuid": "REDACTED",
+  "storage_location": null,
+  "id": 2,
+  "archived_at": null
+ }
+]

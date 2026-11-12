@@ -1,0 +1,10 @@
+# Paths where private-network addresses are intentional (pii-guard still checks secrets, emails, names and paths everywhere).
+# Example addresses used as test data and as hint text in the app.
+path: app/src/test/*
+path: app/src/main/res/values/strings.xml
+path: app/src/main/java/io/github/michael3dprint/mybambuddy/ui/setup/SetupPreview.kt
+path: app/src/main/java/io/github/michael3dprint/mybambuddy/ui/settings/ConnectionSection.kt
+path: app/src/main/java/io/github/michael3dprint/mybambuddy/ui/settings/TailscaleNoteCard.kt
+path: app/src/main/java/io/github/michael3dprint/mybambuddy/ui/settings/SettingsScreen.kt
+path: app/src/main/java/io/github/michael3dprint/mybambuddy/ui/setup/SetupScreen.kt
+path: app/src/main/res/xml/network_security_config.xml

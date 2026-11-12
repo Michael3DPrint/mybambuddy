@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">My Bambuddy</string>
+
+    <!-- alerts -->
+    <string name="alerts_alerts">Alerts</string>
+    <string name="alerts_back">Back</string>
+    <string name="alerts_help_title">Want alerts the moment they happen?</string>
+    <string name="alerts_help_intro">This app checks about every 15 minutes. Bambuddy can send alerts instantly through ntfy or Pushover.</string>
+    <string name="alerts_help_step1">1. Install the ntfy app on your phone and pick a long, random topic name.</string>
+    <string name="alerts_help_step2">2. In Bambuddy\'s web page, add a notification provider of type ntfy (or Pushover) with that topic.</string>
+    <string name="alerts_help_step3">3. Tick the events you want, such as print finished or failed.</string>
+    <string name="alerts_help_step4">4. Send the test notification, then switch off the matching alerts below so you do not get two.</string>
+    <string name="alerts_help_open">Open Bambuddy</string>
+    <string name="alerts_help_hide">Hide</string>
+    <string name="alerts_help_show">How to get instant alerts</string>
+    <string name="filament_spool_not_found">That spool is no longer in the inventory.</string>
+
+    <!-- common -->
+    <string name="common_tools">Tools</string>
+
+    <!-- detail -->
+    <string name="detail_clear">Clear</string>
+    <string name="detail_learn_more_bambu_wiki">Learn more (Bambu wiki)</string>
+    <string name="detail_live_camera">Live camera</string>
+    <string name="detail_live_view_unavailable_tap_live">Live view unavailable. Tap LIVE to try again.</string>
+    <string name="detail_tap_to_view_full_screen">Tap to view full screen</string>
+    <string name="detail_no_camera_stream_available">No Camera Stream Available</string>
+    <string name="detail_take_new_photo">Take new photo</string>
+    <string name="detail_cancel_print">Cancel Print</string>
+    <string name="detail_full_camera_snapshot">Full camera snapshot</string>
+    <string name="detail_close">Close</string>
+    <string name="detail_cancel">Cancel</string>
+    <string name="detail_select_print_speed">Select Print Speed</string>
+    <string name="detail_apply">Apply</string>
+    <string name="detail_more_actions">More actions</string>
+    <string name="detail_refresh_status">Refresh status</string>
+    <string name="detail_clear_hms_errors">Clear HMS errors</string>
+    <string name="detail_mark_plate_cleared">Mark plate cleared</string>
+    <string name="detail_speed_presets">Speed presets</string>
+    <string name="detail_progress">Progress</string>
+    <string name="detail_temperatures">Temperatures</string>
+
+    <!-- filament -->
+    <string name="filament_retry">Retry</string>
+    <string name="filament_start_drying">Start drying?</string>
+    <string name="filament_start">Start</string>
+    <string name="filament_drying">Drying</string>
+    <string name="filament_stop_drying">Stop drying</string>
+    <string name="filament_text">−</string>
+    <string name="filament_text_2">+</string>
+    <string name="filament_unloading_only_clears_the_record">Unloading only clears the record. Nothing is sent to the printer.</string>
+    <string name="filament_change_filament_pick_from_your">Change filament: pick from your inventory</string>
+    <string name="filament_load_into_the_printer">Load into the printer?</string>
+    <string name="filament_if_no_calibration_profile_is">If no calibration profile is stored for this spool, it also resets the slot\'s flow calibration to the default.</string>
+    <string name="filament_load">Load</string>
+    <string name="filament_filament">Filament</string>
+    <string name="filament_scan_tag_short">Scan tag</string>
+    <string name="filament_scan_nfc_tag">Scan NFC tag</string>
+    <string name="filament_refresh">Refresh</string>
+    <string name="filament_add_spool">Add spool</string>
+    <string name="filament_spools">Spools</string>
+    <string name="filament_ams_drying">AMS &amp; Drying</string>
+    <string name="filament_no_spools_yet_tap_to">No spools yet. Tap + to add one.</string>
+    <string name="filament_search_catalog_e_g_bambu">Search catalog (e.g. bambu pla)</string>
+    <string name="filament_details">Details</string>
+    <string name="filament_in_use">● in use</string>
+    <string name="filament_running_low_consider_ordering_a">Running low — consider ordering a replacement.</string>
+    <string name="filament_usage">Usage</string>
+    <string name="filament_no_usage_recorded_yet">No usage recorded yet.</string>
+    <string name="filament_load_into_ams">Load into AMS…</string>
+    <string name="filament_write_nfc_tag_ntag215">Write NFC tag (NTAG215)</string>
+    <string name="filament_this_phone_has_no_nfc">This phone has no NFC, so tags can\'t be written.</string>
+    <string name="filament_open">Open</string>
+    <string name="filament_add_as_new_spool">Add as new spool</string>
+    <string name="filament_ok">OK</string>
+    <string name="filament_anything_already_on_the_tag">Anything already on the tag will be overwritten.</string>
+    <string name="filament_hold_a_tag_against_the">Hold a tag against the back of the phone.</string>
+    <string name="filament_keep_the_tag_in_place">Keep the tag in place.</string>
+    <string name="filament_look_up_this_barcode_online">Look up this barcode online?</string>
+    <string name="filament_look_up_once">Look up once</string>
+    <string name="filament_always_allow">Always allow</string>
+    <string name="filament_not_now">Not now</string>
+    <string name="filament_never">Never</string>
+
+    <!-- history -->
+    <string name="history_print_history">Print History</string>
+    <string name="history_refresh_history">Refresh History</string>
+    <string name="history_error">Error</string>
+    <string name="history_load_more">Load More</string>
+
+    <!-- maintenance -->
+    <string name="maintenance_mark_as_done">Mark as done?</string>
+    <string name="maintenance_mark_done">Mark done</string>
+
+    <!-- printers -->
+    <string name="printers_no_camera_stream">No Camera Stream</string>
+    <string name="printers_printdeck">PrintDeck</string>
+    <string name="queue_all_printers">Queue · all printers</string>
+    <string name="printers_settings">Settings</string>
+
+    <!-- queue -->
+    <string name="queue_move_up_named">Move %1$s up</string>
+    <string name="queue_move_down_named">Move %1$s down</string>
+    <string name="queue_not_enough_filament_for_this">Not enough filament for this job.</string>
+    <string name="queue_start_now">Start now</string>
+    <string name="queue_remove">Remove</string>
+    <string name="queue_resume_queue_after_failure">Resume queue after failure</string>
+
+    <!-- readiness -->
+    <string name="readiness_connection_diagnostics">Connection diagnostics</string>
+    <string name="readiness_bambuddy_tests_its_connection_to">Bambuddy tests its connection to the printer. This takes up to about 15 seconds.</string>
+    <string name="readiness_run_full_diagnostics">Run full diagnostics</string>
+    <string name="readiness_running">Running…</string>
+    <string name="readiness_try_again">Try again</string>
+    <string name="readiness_run_again">Run again</string>
+    <string name="readiness_bambuddy_returned_no_checks">Bambuddy returned no checks.</string>
+    <string name="readiness_printer_tools">Printer tools</string>
+    <string name="readiness_check_again">Check again</string>
+
+    <!-- settings -->
+    <string name="settings_app_theme_mode">App Theme Mode</string>
+    <string name="settings_use_wallpaper_colours">Use wallpaper colours</string>
+    <string name="settings_off_keeps_the_app_s">Off keeps the app\'s own teal palette. Status colours never change.</string>
+    <string name="settings_server_authentication">Server &amp; Authentication</string>
+    <string name="settings_server_url">Server URL</string>
+    <string name="settings_e_g_http_100_64">e.g. http://100.64.0.1:8000</string>
+    <string name="settings_api_key_optional">API Key (optional)</string>
+    <string name="settings_leave_empty_if_auth_is">Leave empty if auth is off</string>
+    <string name="settings_api_key">API Key</string>
+    <string name="settings_test_connection">Test Connection</string>
+    <string name="settings_success">Success</string>
+    <string name="settings_polling_interval">Polling Interval</string>
+    <string name="settings_select_how_often_the_app">Select how often the app polls for status updates.</string>
+    <string name="settings_alerts_print_finished_errors_low">Alerts (print finished, errors, low filament…)</string>
+    <string name="settings_save_settings">Save Settings</string>
+    <string name="settings_saved">Saved</string>
+    <string name="settings_tailscale_info">Tailscale Info</string>
+
+    <!-- setup -->
+    <string name="setup_info">Info</string>
+    <string name="setup_make_sure_tailscale_is_connected">Make sure Tailscale is connected on this phone.</string>
+    <string name="setup_e_g_http_100_64">e.g. http://100.64.0.1:8000 or https://bambuddy.ts.net</string>
+    <string name="setup_test">Test</string>
+    <string name="setup_save">Save</string>
+    <string name="widget_description">Shows the state and progress of your printers. Read only.</string>
+    <string name="printer_tab_overview">Overview</string>
+    <string name="printer_tab_queue">Queue</string>
+    <string name="printer_tab_maintenance">Maintenance</string>
+    <string name="printer_tab_tools">Tools</string>
+    <string name="weigh_field_label">Weight on the scale</string>
+    <string name="detail_clear_hms_confirm">This sends a clear-errors command to the printer through Bambuddy.</string>
+    <string name="maintenance_loading">Loading maintenance…</string>
+    <string name="printer_slot_empty">Empty</string>
+    <string name="printer_filament_loading">Reading what is loaded…</string>
+    <string name="printer_no_ams">No AMS reported for this printer.</string>
+    <string name="widget_title">Printers</string>
+    <string name="widget_refresh">Refresh</string>
+    <string name="widget_empty">Open My Bambuddy to set up</string>
+    <string name="weigh_button">Weigh and update\u2026</string>
+    <string name="weigh_title">Weigh this spool</string>
+    <string name="weigh_explain">Put the spool on a scale and enter the total weight, spool included.</string>
+    <string name="weigh_limits">Bambuddy subtracts the empty spool\u2019s weight itself. This only changes the record, and it is only as exact as that empty-spool weight.</string>
+    <string name="weigh_update">Update</string>
+    <string name="stats_title">Statistics</string>
+    <string name="stats_expand">Show statistics</string>
+    <string name="stats_collapse">Hide statistics</string>
+    <string name="stats_loading">Loading\u2026</string>
+    <string name="stats_none">No prints in this period.</string>
+    <string name="stats_by_printer">By printer</string>
+    <string name="stats_by_material">By material</string>
+    <string name="tablet_select_printer">Select a printer</string>
+</resources>

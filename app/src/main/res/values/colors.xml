@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#FFF5FAFB</color>
+    <color name="icon_background_start">#FF0F4C5C</color>
+    <color name="icon_background_end">#FF16697A</color>
+    <color name="icon_foreground">#FFFFFFFF</color>
+    <color name="icon_accent">#FFFFB703</color>
+    <color name="widget_background">#FFF5FAFB</color>
+    <color name="widget_text">#FF10252B</color>
+    <color name="widget_subtext">#FF4A6168</color>
+    <color name="widget_row_fill">#FFFFFFFF</color>
+    <color name="widget_row_stroke">#FF6F858D</color>
+</resources>

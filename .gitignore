@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+# Android Studio settings stay local, except the shared code style.
+/.idea/*
+!/.idea/codeStyles/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties

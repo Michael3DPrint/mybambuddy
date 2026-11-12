@@ -1,0 +1,19 @@
+root = true
+
+[*.{kt,kts}]
+indent_size = 4
+max_line_length = 140
+insert_final_newline = true
+ktlint_code_style = android_studio
+# Compose functions are PascalCase nouns by convention.
+ktlint_function_naming_ignore_when_annotated_with = Composable
+# The project names private flows "_xFlow" next to a public "x"; that convention is intentional.
+ktlint_standard_backing-property-naming = disabled
+
+# Wildcard imports are tolerated only in the generated test stub and the Android Studio template tests.
+[{**/ExampleUnitTest.kt,**/ExampleInstrumentedTest.kt}]
+ktlint_standard_no-wildcard-imports = disabled
+
+[*.{kt,kts}]
+ij_kotlin_allow_trailing_comma = true
+ij_kotlin_allow_trailing_comma_on_call_site = true

@@ -1,0 +1,27 @@
+[
+ {
+  "name": "X2D-Sample",
+  "serial_number": "REDACTED",
+  "ip_address": "REDACTED",
+  "model": "X2D",
+  "location": null,
+  "auto_archive": true,
+  "external_camera_url": null,
+  "external_camera_type": null,
+  "external_camera_enabled": false,
+  "external_camera_snapshot_url": null,
+  "camera_rotation": 0,
+  "camera_light_auto": false,
+  "id": 1,
+  "is_active": true,
+  "nozzle_count": 2,
+  "supports_nozzle_flow_type": true,
+  "print_hours_offset": 0.0,
+  "wear_cost_per_hour": null,
+  "plate_detection_enabled": false,
+  "plate_detection_roi": null,
+  "created_at": "2026-11-09T00:05:08",
+  "updated_at": "2026-11-09T00:05:09",
+  "access_code": "REDACTED"
+ }
+]

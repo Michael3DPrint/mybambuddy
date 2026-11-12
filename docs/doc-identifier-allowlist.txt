@@ -1,0 +1,5 @@
+# Names that appear in backticks in docs/design/*.md or docs/ENGINEERING_STANDARDS.md but are not declared in the code.
+# One per line: Name | reason. The test DocumentationIdentifiersTest fails if a documented name is neither in the code nor here,
+# and if a name listed here shows up in the code (remove it then). A design written before its code goes here as "proposed".
+PascalCase | a naming convention in the standards, not an identifier
+CachingXRepository | placeholder pattern for the five CachingXRepository decorators

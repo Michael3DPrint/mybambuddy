@@ -1,0 +1,50 @@
+{
+ "connected": true,
+ "supports_drying": true,
+ "ams": [
+  {
+   "id": 0,
+   "humidity": 23,
+   "temp": 21.6,
+   "is_ams_ht": false,
+   "dry_time": 0,
+   "dry_status": 0,
+   "dry_target_temp": null,
+   "dry_filament": "PLA",
+   "tray": [
+    {
+     "id": 0,
+     "tray_type": "PLA",
+     "tray_sub_brands": "",
+     "tray_color": "161616FF",
+     "remain": -1,
+     "tag_uid": null
+    },
+    {
+     "id": 1,
+     "tray_type": "PLA",
+     "tray_sub_brands": "",
+     "tray_color": "FFFFFFFF",
+     "remain": -1,
+     "tag_uid": null
+    },
+    {
+     "id": 2,
+     "tray_type": "PLA",
+     "tray_sub_brands": "PLA Basic",
+     "tray_color": "307FE2FF",
+     "remain": 75,
+     "tag_uid": "REDACTED"
+    },
+    {
+     "id": 3,
+     "tray_type": "PLA",
+     "tray_sub_brands": "PLA Metal",
+     "tray_color": "43403DFF",
+     "remain": 63,
+     "tag_uid": "REDACTED"
+    }
+   ]
+  }
+ ]
+}

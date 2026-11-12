@@ -1,0 +1,4 @@
+# Named exceptions for StandardsEnforcementTest. One per line: rule:key | reason.
+# An entry that is no longer needed fails the test, so this list cannot go stale. Add an entry only with a real reason.
+dead:getHealth | kept on purpose for the optional diagnostics check and manual use; its lenient parser and tests stay
+dead:writeTo | overrides OkHttp RequestBody.writeTo, which OkHttp calls when the upload is sent

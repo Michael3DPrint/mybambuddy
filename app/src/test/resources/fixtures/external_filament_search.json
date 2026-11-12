@@ -1,0 +1,16 @@
+[
+ {
+  "id": "bambulab_pla_ironbluemetallic_1000_175_n",
+  "manufacturer": "Bambu Lab",
+  "name": "Iron Gray Metallic",
+  "material": "PLA",
+  "density": 1.24,
+  "weight": 1000.0,
+  "spool_weight": 250.0,
+  "diameter": 1.75,
+  "color_hex": "43403D",
+  "extruder_temp": 220,
+  "bed_temp": 55,
+  "finish": null
+ }
+]
